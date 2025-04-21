@@ -271,7 +271,7 @@ export const Bio = {
         "Node Js",
         "JWT"
       ],
-      category: "android app",
+      category: "BackEnd",
       github: "https://github.com/TechGyInnovations/NEX2U-Backend.git",
       //webapp: "https://trackify.duckdns.org",
     },
@@ -291,7 +291,7 @@ export const Bio = {
         "React Js",
         "Node Js",
         "JWT"],
-      category: "web app",
+      category: "BackEnd",
       github: "https://github.com/PixiLoop/green-land-capital.git",
       webapp: "https://dev.glctesting.com/",
       /*member: [
@@ -443,7 +443,7 @@ export const Bio = {
       image:quiz,
       quiz,
       tags: ["HTML", "CSS", "JavaScript", "VsCode"],
-      category: "Web Application",
+      category: "FrontEnd",
       github: "https://github.com/AvulaHemanthkumar2022/quiz.git",
       webapp: "https://github.com/AvulaHemanthkumar2022/quiz.git",
     },
